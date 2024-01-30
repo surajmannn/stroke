@@ -1,0 +1,5 @@
+# 6006CEM
+ 6006CEM Course Work
+
+ # DATASET URL:
+ https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
